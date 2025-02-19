@@ -1,17 +1,15 @@
-#Aditya Mogadpally 🚀
-##Project Management | Business Analysis | Data Analytics
+# 👋 Welcome to My GitHub Repository!
 
-I am a strategic thinker, solution-oriented leader, and results-driven project manager with a strong foundation in business analysis and data-driven decision-making. Passionate about process optimization, stakeholder collaboration, and cross-functional leadership, I thrive in fast-paced environments, driving efficiency, innovation, and continuous improvement.
+Hello! I’m Aditya Girish Mogadpally, a passionate and results-driven professional with expertise in **project management, business analysis and data visualization**. Holding a Master of Science degree in Engineering Management from Northeastern University and Bachelors degree in Computer Science, I bring a unique blend of technical expertise and management acumen, enabling me to transform business needs into actionable insights and deliver impactful, innovative solutions.
 
-##💼 Experience Highlights:
-Johnson & Johnson: Enhanced reporting processes using Power BI and Lean Six Sigma, reducing processing time by 30%.
-Musafir.com: Led project coordination for a 6-month software development project, utilizing Scrum & Kanban, achieving a 35% bug reduction.
-Greenstand: Managing technology-driven sustainability projects, optimizing workflows, and driving impact.
+Here, you’ll find a collection of projects and tools that reflect my skills in:
 
-##📊 Key Skills:
-✅ Project Management: Agile (Scrum, Kanban), Risk Mitigation, Earned Value Management, Change Management
-✅ Business Analysis: Requirements Gathering, Process Improvement, Stakeholder Management, Decision Support
-✅ Leadership & Strategy: Cross-functional Collaboration, Strategic Planning, Communication Management
-✅ Technical: Power BI, SQL, Excel, JIRA, Microsoft Project, Python
+**Data Analysis & Visualization:** Proficient in Power BI, Excel (Pivot Tables, VLOOKUP, Macros), and DAX for creating insightful dashboards and reports.
 
-Beyond work, I enjoy playing guitar 🎸, weight training 💪, and exploring new places 🌍. Open to collaborations in project management, business analysis, and data-driven solutions.
+**Project Management:** Experienced in Agile methodologies (Scrum, Kanban), stakeholder management, and process improvement.
+
+**Technical Expertise:** Skilled in Python, C#, SQL, and tools like JIRA, Microsoft Project, and Git.
+
+From leading end-to-end project lifecycles and translating business needs into actionable requirements to driving process improvements and delivering data-driven insights, my work demonstrates a commitment to solving complex problems and enabling informed decision-making.
+
+Feel free to explore my projects, collaborate, or reach out—I’m always open to feedback and new opportunities! 🚀
