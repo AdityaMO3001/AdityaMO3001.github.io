@@ -1,4 +1,4 @@
-**Aditya Mogadpally**
+#**Aditya Mogadpally**
 
 I am a Product Management and Business Analysis enthusiast with a strong foundation in project management, data analytics, and software engineering. My experience spans across multiple industries, from pharmaceuticals to supply chain and fintech, where I have successfully led data-driven initiatives, optimized reporting systems, and enhanced decision-making processes.
 
